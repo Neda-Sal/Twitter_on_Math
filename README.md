@@ -1,6 +1,6 @@
 # Math Unsupervised
 
-Find Blog post [here](https://towardsdatascience.com/math-unsupervised-a3667b6ec9b8).
+Find blog post [here](https://towardsdatascience.com/math-unsupervised-a3667b6ec9b8).
 
 Throughout my many years in math education as a tutor and as a teacher, one thing that consistently stood out to me was that my students almost always had strong feelings about math. I wondered if this phenomenon extended beyond my students. This led me to my goal of seeing how do people talk about math.
 
